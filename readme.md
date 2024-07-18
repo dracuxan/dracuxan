@@ -18,10 +18,10 @@
 
 <p align="center">
  <a href="https://linkedin.com/in/nisargkhodke" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nisarg2061"/>
  </a>
  <a href="https://www.instagram.com/nisarg_2061/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Nisarg2061" />
  </a> 
 </p>
 <br />
@@ -79,7 +79,7 @@
 
 <p align="center">
   <a href="https://github.com/Nisarg2061">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Nisarg's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisarg2061&theme=radical&border=7F3FBF&background=0D1117" alt="Nisarg's GitHub streak"/>
   </a>
 </p>
 
