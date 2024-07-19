@@ -10,7 +10,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Nisarg+Khodke">「 Google Me 」</a>
     <br>
-    「 I am a backend developer from <b>India</b> 」
+    「 Software Engineer from <b>India</b> 」
     <br>
     <br>
   </samp>
