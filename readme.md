@@ -1,3 +1,7 @@
+<!-- Banner -->
+<p align="center">
+<img src="https://imgur.com/a/BXoSG2c" style="max-height:500px"/>
+</p>
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
