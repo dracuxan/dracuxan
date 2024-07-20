@@ -3,6 +3,17 @@
 <img src="https://i.imgur.com/mz4ym1F.png" style="max-height:550px"/>
 </p>
 <!-- Intro  -->
+<br />
+<p align="center">
+ <a href="https://linkedin.com/in/nisargkhodke" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nisarg2061"/>
+ </a>
+ <a href="https://www.instagram.com/nisarg_2061/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Nisarg2061" />
+ </a> 
+</p>
+<br />
+
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="#">Nisarg</a></b>
@@ -14,24 +25,9 @@
   <samp>
     <a href="https://www.google.com/search?q=Nisarg+Khodke">「 Google Me 」</a>
     <br>
-    「 Software Engineer from <b>India</b> 」
-    <br>
-    <br>
   </samp>
 </p>
-
-<p align="center">
- <a href="https://linkedin.com/in/nisargkhodke" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nisarg2061"/>
- </a>
- <a href="https://www.instagram.com/nisarg_2061/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Nisarg2061" />
- </a> 
-</p>
 <br />
-
-
-
 
 ## Tools and languages 
 
