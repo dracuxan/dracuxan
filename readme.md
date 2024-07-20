@@ -12,11 +12,9 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Nisarg2061" />
  </a> 
 </p>
-<br />
 
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="#">Nisarg</a></b>
+        <samp>&gt; Hey There!, I am <b><a target="_blank" href="#">Nisarg</a></b>
         </samp>
 </h3>
 
@@ -27,7 +25,6 @@
     <br>
   </samp>
 </p>
-<br />
 
 ## Tools and languages 
 
