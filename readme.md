@@ -87,5 +87,6 @@ func main() {
 ## My GitHub Stats
 ![Nisarg's Github Streak](https://streak-stats.demolab.com?user=Nisarg2061&theme=tokyonight&hide_border=true&card_width=200&hide_total_contributions=true&hide_longest_streak=true)
 ![Nisarg's Github Stats](https://github-readme-stats.vercel.app/api?username=Nisarg2061&show_icons=true&theme=tokyonight&hide_border=true)
+![Nisarg's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nisarg2061&theme=tokyonight&hide_border=true&card_width=200&hide_current_streak=true&hide_longest_streak=true)
 
 <hr />    
