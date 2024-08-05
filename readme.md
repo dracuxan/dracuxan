@@ -84,10 +84,10 @@ func main() {
 ## My GitHub Stats
 <p align="center"> 
  <a href="https://github.com/Nisarg2061">
-     <img alt="Streak" src="https://streak-stats.demolab.com?user=Nisarg2061&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=200"/>
+     <img alt="Nisarg's Github Streak" src="https://streak-stats.demolab.com?user=Nisarg2061&theme=tokyonight&hide_border=true&card_width=200&background=00000000&hide_total_contributions=true&hide_longest_streak=true"/>
     </a>
     <a href="https://github.com/Nisarg2061">
-     <img alt="Nisarg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nisarg2061&show_icons=true&theme=tokyonight&hide_border=true&"/>
+     <img alt="Nisarg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nisarg2061&show_icons=true&theme=tokyonight&hide_border=true"/>
     </a>
 </p>
 <hr />    
