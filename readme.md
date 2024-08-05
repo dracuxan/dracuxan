@@ -1,11 +1,13 @@
 <!-- Banner -->
+
 <p align="center">
 <img src="https://i.imgur.com/mz4ym1F.png" style="max-height:550px"/>
 </p>
+
 <hr />
 
 <!-- Intro  -->
-<br />
+
 <p align="center">
  <a href="https://linkedin.com/in/nisargkhodke" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nisarg2061"/>
@@ -20,7 +22,6 @@
         </samp>
 </h3>
 
-
 <p align="center"> 
   <samp>
     <a href="https://www.google.com/search?q=Nisarg+Khodke">「 Google Me 」</a>
@@ -28,7 +29,8 @@
   </samp>
 </p>
 
-<!-- Code Intro -->
+<!-- Coded Intro -->
+
 ```go
 package main
 
@@ -54,10 +56,10 @@ func main() {
 }
 ```
 
-
 <hr/>
 
 <!-- Tools/Tech Stack  -->
+
 ## Tools and Languages 
 
 **Programming Languages:**
@@ -81,6 +83,7 @@ func main() {
 <hr/>
 
 <!-- Stats  -->
+
 ## My GitHub Stats
 <p align="center"> 
  <a href="https://github.com/Nisarg2061">
