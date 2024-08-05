@@ -92,7 +92,7 @@ func main() {
 </p>
 <p align="center">
     <a href="https://github.com/Nisarg2061">
-     <img alt="Nisarg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nisarg2061&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
+     <img alt="Nisarg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nisarg2061&show_icons=true&theme=tokyonight&hide_border=true" width="49.6%"/>
     </a>
 </p>
 <hr />    
