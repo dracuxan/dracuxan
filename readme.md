@@ -2,6 +2,8 @@
 <p align="center">
 <img src="https://i.imgur.com/mz4ym1F.png" style="max-height:550px"/>
 </p>
+<hr />
+
 <!-- Intro  -->
 <br />
 <p align="center">
@@ -26,38 +28,66 @@
   </samp>
 </p>
 
-## Tools and languages 
+<!-- Code Intro -->
+```go
+package main
 
-![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![WSL2](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
-![NEOVIM](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![BOOT](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+import "fmt"
+
+type SoftwareEngineer struct {
+    Name            string
+    Role            string
+    LanguageSpoken  []string
+}
+
+func (me *SoftwareEngineer) SayHi() {
+    fmt.Println("Hey, thanks for stopping by. Hope you find something interesting.")
+}
+
+func main() {
+    me := SoftwareEngineer{
+        Name:           "Nisarg Khodke",
+        Role:           "Software Engineer",
+        LanguageSpoken: []string{"hi_IN", "en_US"},
+    }
+    me.SayHi()
+}
+```
 
 
 <hr/>
-<br/>
 
-<p align="center">
-  <a href="https://github.com/Nisarg2061">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisarg2061&theme=radical&border=7F3FBF&background=0D1117" alt="Nisarg's GitHub streak"/>
-  </a>
+<!-- Tools/Tech Stack  -->
+## Tools and Languages 
+
+**Programming Languages:**
+
+![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Tools and Services:**
+
+![NEOVIM](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
+**Operating Systems:**
+
+![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+<hr/>
+
+<!-- Stats  -->
+## My GitHub Stats
+<p align="center"> 
+ <a href="https://github.com/Nisarg2061">
+     <img alt="Streak" src="https://streak-stats.demolab.com?user=Nisarg2061&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=200" height="192px" />
+    </a>
+    <a href="https://github.com/Nisarg2061">
+     <img alt="Nisarg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nisarg2061&show_icons=true&theme=tokyonight&hide_border=true&" height="192px" width="48%"/>
+    </a>
 </p>
-
-
-<p> 
-    <a href="https://github.com/Nisarg2061"><img alt="Nisarg's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Nisarg2061&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.6%"/></a>
-  <a href="https://github.com/Nisarg2061"><img alt="Nisarg's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Nisarg2061&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.6%"/></a>
-  <br/>
-</p>
+<hr />    
