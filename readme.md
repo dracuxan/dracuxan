@@ -4,32 +4,9 @@
 <img src="https://i.imgur.com/mz4ym1F.png" style="max-height:550px"/>
 </p>
 
-<hr />
-
-<!-- Intro  -->
-
-<p align="center">
- <a href="https://linkedin.com/in/nisargkhodke" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nisarg2061"/>
- </a>
- <a href="https://www.instagram.com/nisarg_2061/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Nisarg2061" />
- </a> 
-</p>
-
-<h3 align="center">
-        <samp>&gt; Hey There!, I am <b><a target="_blank" href="#">Nisarg</a></b>
-        </samp>
-</h3>
-
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Nisarg+Khodke">「 Google Me 」</a>
-    <br>
-  </samp>
-</p>
-
 <!-- Coded Intro -->
+
+## About Me
 
 ```go
 package main
@@ -56,7 +33,18 @@ func main() {
 }
 ```
 
-<hr/>
+<!--   -->
+
+## Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nisargkhodke)
+[![Instagram](https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nisarg_2061)
+
+</div>
+
+<hr />
 
 <!-- Tools/Tech Stack  -->
 
@@ -84,9 +72,13 @@ func main() {
 
 <!-- Stats  -->
 
-## My GitHub Stats
-![Nisarg's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nisarg2061&theme=tokyonight&hide_border=true&card_width=180&hide_current_streak=true&hide_longest_streak=true)
-![Nisarg's Github Streak](https://streak-stats.demolab.com?user=Nisarg2061&theme=tokyonight&hide_border=true&card_width=180&hide_total_contributions=true&hide_longest_streak=true)
-![Nisarg's Github Stats](https://github-readme-stats.vercel.app/api?username=Nisarg2061&show_icons=true&theme=tokyonight&hide_border=true)
+ ## My GitHub Stats
+
+<div align="center">
+ 
+ ![Nisarg's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nisarg2061&theme=tokyonight&hide_border=true&card_width=180&hide_current_streak=true&hide_longest_streak=true)
+ ![Nisarg's Github Streak](https://streak-stats.demolab.com?user=Nisarg2061&theme=tokyonight&hide_border=true&card_width=180&hide_total_contributions=true&hide_longest_streak=true)
+ ![Nisarg's Github Stats](https://github-readme-stats.vercel.app/api?username=Nisarg2061&show_icons=true&theme=tokyonight&hide_border=true)
+</div>
 
 <hr />    
