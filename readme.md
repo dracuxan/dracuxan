@@ -20,6 +20,7 @@ import "fmt"
 type SoftwareEngineer struct {
     Name            string
     Role            string
+    Organisation    string
     LanguageSpoken  []string
 }
 
@@ -30,7 +31,8 @@ func (me *SoftwareEngineer) SayHi() {
 func main() {
     me := SoftwareEngineer{
         Name:           "Nisarg Khodke",
-        Role:           "Software Engineer",
+        Role:           "Co-Founder",
+        Organisation:   "TMP",
         LanguageSpoken: []string{"hi_IN", "en_US"},
     }
     me.SayHi()
