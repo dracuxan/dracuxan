@@ -4,11 +4,11 @@
 <img src="https://i.imgur.com/mz4ym1F.png" style="max-height:550px"/>
 </p>
 
-<div align= "center">
-
 <!-- Coded Intro -->
 
 ## About Me
+
+<div align= "center">
 
 </div>
 
@@ -36,12 +36,12 @@ func main() {
     me.SayHi()
 }
 ```
-
-<div align="center">
     
 <!--   -->
 
 ## Connect With Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nisargkhodke)
 [![Instagram](https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nisarg_2061)
@@ -49,14 +49,10 @@ func main() {
 
 </div>
 
-<hr />
-
-<div align="center">
-
 <!-- Tools/Tech Stack  -->
 
 ## Tools and Languages 
-
+    
 **Programming Languages:**
 
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -84,20 +80,14 @@ func main() {
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-</div>
-
-<hr/>
-
-<div align="center">
-
 <!-- Stats  -->
 
  ## My GitHub Stats
+
+ <div align="center">
  
  ![Nisarg's Github Stats](https://github-readme-stats.vercel.app/api?username=Nisarg2061&show_icons=true&theme=tokyonight&hide_border=true)
  ![Nisarg's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nisarg2061&theme=tokyonight&hide_border=true&card_width=180&hide_current_streak=true&hide_longest_streak=true)
  ![Nisarg's Github Streak](https://streak-stats.demolab.com?user=Nisarg2061&theme=tokyonight&hide_border=true&card_width=180&hide_total_contributions=true&hide_longest_streak=true)
  
 </div>
-
-<hr />    
