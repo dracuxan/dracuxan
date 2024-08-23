@@ -78,7 +78,7 @@ func main() {
  
 </div>
 
-<!-- -->
+<!-- Project Section -->
 
 ## Recent Projects
 
