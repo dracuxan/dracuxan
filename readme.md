@@ -78,12 +78,6 @@ func main() {
 
  </div>
 
-  <div align="center">
-      
- [![Nisarg's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nisarg2061&theme=tokyo-night&hide_border=true&days=40&card_width=720)](https://github.com/Nisarg2061)
- 
- </div>
-
 <!-- Project Section -->
 
 ## Recent Projects
