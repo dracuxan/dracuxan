@@ -75,8 +75,14 @@ func main() {
  ![Nisarg's Github Stats](https://github-readme-stats.vercel.app/api?username=Nisarg2061&show_icons=true&theme=tokyonight&hide_border=true)
  ![Nisarg's Github Streak](https://streak-stats.demolab.com?user=Nisarg2061&theme=tokyonight&hide_border=true&card_width=180&hide_total_contributions=true&hide_longest_streak=true)
  ![Nisarg's GitHub Total Contributions](https://github-readme-streak-stats.herokuapp.com?user=Nisarg2061&theme=tokyonight&hide_border=true&card_width=180&hide_current_streak=true&hide_longest_streak=true)
+
+ </div>
+
+  <div align="center">
+      
+ [![Nisarg's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nisarg2061&theme=tokyo-night&hide_border=true&days=40&card_width=720)](https://github.com/Nisarg2061)
  
-</div>
+ </div>
 
 <!-- Project Section -->
 
