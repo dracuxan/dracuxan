@@ -89,6 +89,7 @@ func main() {
 
 </div>
 
+<!--
 ## Badges
 
 <div align="center">
@@ -96,4 +97,4 @@ func main() {
 [![](https://holopin.me/Nisarg2061)](https://holopin.io/@Nisarg2061)
 
 </div>
-
+-->
