@@ -88,3 +88,11 @@ func main() {
  [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Nisarg2061&repo=Thrift-Store&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/Nisarg2061/Thrift-Store)
 
 </div>
+
+## Badges
+
+ <div align="center">
+     
+(https://holopin.me/Nisarg2061)](https://holopin.io/@Nisarg2061)
+
+</div>
