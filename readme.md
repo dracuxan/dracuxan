@@ -22,7 +22,7 @@ type SoftwareEngineer struct {
 }
 
 func (me *SoftwareEngineer) SayHi() {
-    fmt.Println("Thanks for stopping by. Hope you find something interesting.")
+    fmt.Println("Thanks for stopping by. Hope you find it in time...")
 }
 
 func main() {
