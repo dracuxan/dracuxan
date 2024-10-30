@@ -84,7 +84,7 @@ func main() {
 
  <div align="center">
 
- [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Nisarg2061&repo=Goache&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Nisarg2061/Goache)
+ [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Nisarg2061&repo=Dot-Files&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Nisarg2061/Dot-Files)
  [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Nisarg2061&repo=Thrift-Store&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/Nisarg2061/Thrift-Store)
 
 </div>
