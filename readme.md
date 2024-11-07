@@ -73,7 +73,7 @@ func main() {
  <div align="center">
  
  ![Nisarg's Github Stats](https://github-readme-stats.vercel.app/api?username=Nisarg2061&show_icons=true&theme=tokyonight&hide_border=true)
- ![Nisarg's Github Streak](https://streak-stats.demolab.com?user=Nisarg2061&theme=tokyonight&hide_border=true&card_width=180&hide_total_contributions=true&hide_longest_streak=true)
+ ![Nisarg's Github Streak](https://streak-stats.demolab.com?user=Nisarg2061&theme=tokyonight&hide_border=true&card_width=180&hide_total_contributions=true&hide_current_streak=true&)
  ![Nisarg's GitHub Total Contributions](https://github-readme-streak-stats.herokuapp.com?user=Nisarg2061&theme=tokyonight&hide_border=true&card_width=180&hide_current_streak=true&hide_longest_streak=true)
 
  </div>
