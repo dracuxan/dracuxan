@@ -1,70 +1,40 @@
 <!-- Coded Intro -->
 
 ```go
-package main
+package Nisarg2061
 
-import "fmt"
+import (
+	"Nisarg2061/models"
+)
 
 func main() {
-	me := Info{
-		General: General{
+	me := models.Info{
+		General: models.General{
 			Name:   "Nisarg Khodke",
 			OS:     []string{"Windows 11", "Ubuntu", "Arch Linux"},
 			IDE:    "NeoVim",
 			Status: "Currently a Computer Science and Business Systems Student.",
 		},
 
-		TechStack: TechStack{
+		TechStack: models.TechStack{
 			LanguagesProgramming: []string{"Go", "Python", "JavaScript", "Java"},
 			LanguagesComputer:    []string{"HTML", "CSS", "YAML", "JSON", "MARKDOWN"},
 		},
 
-		Hobbies: Hobbies{
+		Hobbies: models.Hobbies{
 			Virtual: []string{"Valorant", "Reverse Engineering"},
 			Real:    []string{"Reading", "Origami"},
 		},
 
-		Contact: Contact{
+		Contact: models.Contact{
 			Email:    "nisargkhodke@gmail.com",
 			LinkedIn: "nisargkhodke",
 		},
 	}
 
-	me.FindIt()
+	me.Says("Thanks for stopping by. Hope you find it in time...")
 }
 
-func (me *Info) FindIt() {
-	fmt.Println("Thanks for stopping by. Hope you find it in time...")
-}
-
-type Info struct {
-	General
-	TechStack
-	Hobbies
-	Contact
-}
-
-type General struct {
-	Name   string
-	OS     []string
-	IDE    string
-	Status string
-}
-
-type TechStack struct {
-	LanguagesProgramming []string
-	LanguagesComputer    []string
-}
-
-type Hobbies struct {
-	Virtual []string
-	Real    []string
-}
-
-type Contact struct {
-	Email    string
-	LinkedIn string
-}
 
 ```
 
