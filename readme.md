@@ -3,9 +3,7 @@
 ```go
 package Nisarg2061
 
-import (
-	"Nisarg2061/models"
-)
+import "Nisarg2061/models"
 
 func main() {
 	me := models.Info{
