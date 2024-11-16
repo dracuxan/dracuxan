@@ -5,7 +5,7 @@ package Nisarg2061
 
 import "Nisarg2061/models"
 
-func main() {
+func InfoGenerator() {
 	me := models.Info{
 		General: models.General{
 			Name:   "Nisarg Khodke",
