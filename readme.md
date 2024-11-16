@@ -29,7 +29,7 @@ func main() {
     me := SoftwareEngineer{
         Name:           "Nisarg Khodke",
         Role:           "Software Engineer",
-        LanguageSpoken: []string{"hi_IN", "en_US"},
+        LanguageSpoken: []string{"hi_IN", "en_IN"},
     }
     me.SayHi()
 }
