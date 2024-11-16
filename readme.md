@@ -7,7 +7,7 @@
 ```go
 package Nisarg2061
 
-import "github.com/Nisarg2061/models"
+import "Nisarg2061/models"
 
 func InfoGenerator() {
 	me := models.Info{
