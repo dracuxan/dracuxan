@@ -7,7 +7,7 @@
 ```go
 package Nisarg2061
 
-import "Nisarg2061/models"
+import "github.com/Nisarg2061/models"
 
 func InfoGenerator() {
 	me := models.Info{
@@ -36,6 +36,4 @@ func InfoGenerator() {
 
 	me.Says("Thanks for stopping by. Hope you find it in time...")
 }
-
-
 ```
