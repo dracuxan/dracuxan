@@ -14,7 +14,7 @@ func InfoGenerator() {
 		General: models.General{
 			Name:   "Nisarg Khodke",
 			OS:     []string{"Windows 11", "Ubuntu", "Arch Linux"},
-			IDE:    "NeoVim",
+			IDE:    "Neovim",
 			Status: "Currently a Computer Science and Business Systems Student.",
 		},
 
