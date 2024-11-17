@@ -11,7 +11,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master 
@@ -21,7 +21,7 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_LOC_CHART: "True"
+          SHOW_LOC_CHART: "False"
           LOCALE: "en"
           COMMIT_MESSAGE: "Update Metrics"
           SHOW_DAYS_OF_WEEK: "False"
