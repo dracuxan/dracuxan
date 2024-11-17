@@ -40,15 +40,17 @@ func InfoGenerator() {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-186-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-🌆 Daytime                150 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-🌃 Evening                383 commits         ██████████░░░░░░░░░░░░░░░   38.26 % 
-🌙 Night                  419 commits         ██████████░░░░░░░░░░░░░░░   41.86 % 
+🌞 Morning                49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+🌆 Daytime                150 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+🌃 Evening                383 commits         ██████████░░░░░░░░░░░░░░░   38.11 % 
+🌙 Night                  423 commits         ███████████░░░░░░░░░░░░░░   42.09 % 
 ```
 
 
@@ -77,6 +79,10 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 17/11/2024 19:40:55 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/Nisarg2061/Nisarg2061/main/assets/bar_graph.png)
+
+
+ Last Updated on 17/11/2024 23:02:46 UTC
 <!--END_SECTION:waka-->
