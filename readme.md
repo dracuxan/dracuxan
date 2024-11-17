@@ -37,3 +37,5 @@ func InfoGenerator() {
 	me.Says("Thanks for stopping by. Hope you find it in time...")
 }
 ```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
