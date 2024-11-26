@@ -2,10 +2,7 @@ name: Waka Readme
 
 on:
   workflow_dispatch:
-  schedule:
-   # Runs at 24 hour intervals
-    # - cron: '0 */24 * * *'
-
+  
 jobs:
   update-readme:
     name: Update Metrics
