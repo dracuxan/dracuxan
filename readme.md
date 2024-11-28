@@ -13,14 +13,14 @@ func InfoGenerator() {
 	me := models.Info{
 		General: models.General{
 			Name:   "Nisarg Khodke",
-			OS:     []string{"Windows 11", "Ubuntu", "Arch Linux"},
+			OS:     []string{"Windows 11", "Kali-Linux", "Ubuntu", "Arch Linux"},
 			IDE:    "Neovim",
 			Status: "Currently a Computer Science and Business Systems Student.",
 		},
 
 		TechStack: models.TechStack{
-			LanguagesProgramming: []string{"Go", "Python", "JavaScript", "Java"},
-			LanguagesComputer:    []string{"HTML", "CSS", "YAML", "JSON", "MARKDOWN"},
+			LanguagesProgramming: []string{"Go", "Python", "JavaScript", "C"},
+			LanguagesComputer:    []string{"HTML", "CSS", "Makefile", "Docker", "YAML", "JSON", "MARKDOWN"},
 		},
 
 		Hobbies: models.Hobbies{
