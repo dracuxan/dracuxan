@@ -19,12 +19,12 @@ func InfoGenerator() {
 		},
 
 		TechStack: models.TechStack{
-			LanguagesProgramming: []string{"Go", "Python", "JavaScript", "C"},
+			LanguagesProgramming: []string{"Go", "Python", "Elixir"},
 			LanguagesComputer:    []string{"HTML", "CSS", "Makefile", "Docker", "YAML", "JSON", "MARKDOWN"},
 		},
 
 		Hobbies: models.Hobbies{
-			Virtual: []string{"Valorant", "Reverse Engineering"},
+			Virtual: []string{"Valorant", "Wargames"},
 			Real:    []string{"Reading", "Origami"},
 		},
 
