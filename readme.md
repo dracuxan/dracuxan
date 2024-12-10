@@ -1,6 +1,10 @@
+---
+
 <!-- Banner -->
 
 <img src="https://i.imgur.com/mz4ym1F.png" style="max-height:550px"/>
+
+---
 
 <!-- Coded Intro -->
 
@@ -37,6 +41,8 @@ func InfoGenerator() {
 	me.Says("Thanks for stopping by. Hope you find it in time...")
 }
 ```
+---
+
 # Coding Stats
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -91,3 +97,5 @@ Elixir                   1 repo              █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+---
