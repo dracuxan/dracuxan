@@ -37,6 +37,7 @@ func InfoGenerator() {
 	me.Says("Thanks for stopping by. Hope you find it in time...")
 }
 ```
+# Coding Stats
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
