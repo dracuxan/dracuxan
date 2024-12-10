@@ -7,6 +7,7 @@
 ---
 
 <!-- Coded Intro -->
+# About Me
 
 ```go
 package Nisarg2061
@@ -18,7 +19,7 @@ func InfoGenerator() {
 		General: models.General{
 			Name:   "Nisarg Khodke",
 			OS:     []string{"Windows 11", "Kali-Linux", "Ubuntu", "Arch Linux"},
-			IDE:    "Neovim",
+			IDE:    "NeoVim",
 			Status: "Currently a Computer Science and Business Systems Student.",
 		},
 
