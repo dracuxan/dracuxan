@@ -18,14 +18,13 @@ func InfoGenerator() {
 	me := models.Info{
 		General: models.General{
 			Name:   "Nisarg Khodke",
-			OS:     []string{"Windows 11", "Kali-Linux", "Ubuntu", "Arch Linux"},
+			OS:     "WSL-2",
 			IDE:    "NeoVim",
 			Status: "Currently a Computer Science and Business Systems Student.",
 		},
 
 		TechStack: models.TechStack{
 			LanguagesProgramming: []string{"Go", "Python", "Elixir"},
-			LanguagesComputer:    []string{"HTML", "CSS", "Makefile", "Docker", "YAML", "JSON", "MARKDOWN"},
 		},
 
 		Hobbies: models.Hobbies{
@@ -38,8 +37,6 @@ func InfoGenerator() {
 			LinkedIn: "nisargkhodke",
 		},
 	}
-
-	me.Says("Thanks for stopping by. Hope you find it in time...")
 }
 ```
 ---
