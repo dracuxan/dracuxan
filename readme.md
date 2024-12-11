@@ -10,9 +10,9 @@
 # About Me
 
 ```go
-package Nisarg2061
+package dracuxan
 
-import "Nisarg2061/models"
+import "dracuxan/models"
 
 func InfoGenerator() {
 	me := models.Info{
