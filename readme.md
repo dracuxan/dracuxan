@@ -33,7 +33,7 @@ func InfoGenerator() {
 		},
 
 		Contact: models.Contact{
-			Email:    "khodkenisarg@gmail.com",
+			Email:    "nisargkhodke@gmail.com",
 			LinkedIn: "nisargkhodke",
 		},
 	}
