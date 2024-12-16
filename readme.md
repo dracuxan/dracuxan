@@ -7,7 +7,7 @@
 ---
 
 <!-- Coded Intro -->
-# About Me
+# [About Me](https://bynisarg.in/about/)
 
 ```go
 package dracuxan
