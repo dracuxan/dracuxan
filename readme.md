@@ -26,6 +26,8 @@ func InfoGenerator() {
 			Real:    []string{"Reading", "Origami"},
 		},		
 	}
+
+	me.message("Hi! Thx for sopping by, hope you find something interesting!") 
 }
 ```
 
