@@ -1,48 +1,41 @@
----
-
 <!-- Banner -->
-
+<!--
 <img src="https://i.imgur.com/mz4ym1F.png" style="max-height:550px"/>
-
----
+-->
 
 <!-- Coded Intro -->
-# [About Me](https://bynisarg.in/about/)
+# [dracuxan](https://bynisarg.in/)
 
 ```go
-package dracuxan
+package devloper
 
-import "dracuxan/models"
+import "models"
 
 func InfoGenerator() {
 	me := models.Info{
 		General: models.General{
 			Name:   "Nisarg Khodke",
 			OS:     "WSL-2",
-			IDE:    "NeoVim",
-			Status: "Currently a Computer Science and Business Systems Student.",
+			IDE:    []string{"NeoVim", "VSCode"},
 		},
-
 		TechStack: models.TechStack{
 			LanguagesProgramming: []string{"Go", "Python", "Elixir"},
 		},
-
 		Hobbies: models.Hobbies{
 			Virtual: []string{"Valorant", "Wargames"},
 			Real:    []string{"Reading", "Origami"},
-		},
-
-		Contact: models.Contact{
-			Email:    "nisargkhodke@gmail.com",
-			LinkedIn: "nisargkhodke",
-		},
+		},		
 	}
 }
 ```
+
 ---
 
-# Coding Stats
+## Coding Status
+
+
 <!--START_SECTION:waka-->
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -63,5 +56,3 @@ Linux                    11 mins             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
----
