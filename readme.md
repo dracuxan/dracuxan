@@ -9,7 +9,7 @@
 ```go
 package devloper
 
-import "models"
+import "developer/models"
 
 func InfoGenerator() {
 	me := models.Info{
