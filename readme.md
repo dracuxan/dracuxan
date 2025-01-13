@@ -37,18 +37,6 @@ func InfoGenerator() {
 
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 68.7 kB Used in GitHub's Storage 
- > 
-> 🏆 35 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 30 Public Repositories 
- > 
-> 🔑 16 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
