@@ -27,7 +27,7 @@ func InfoGenerator() {
 		},		
 	}
 
-	me.message("Hi! Thx for stopping by, hope you find something interesting!") 
+	me.message("Hi! Thanks for stopping by, hope you find something interesting!") 
 }
 ```
 
