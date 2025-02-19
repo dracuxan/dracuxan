@@ -7,7 +7,7 @@
 # [dracuxan](https://bynisarg.in/)
 
 ```go
-package devloper
+package developer
 
 import "developer/models"
 
