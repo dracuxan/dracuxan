@@ -4,11 +4,9 @@
 -->
 
 
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/dracuxan/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/dracuxan/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/dracuxan/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
-
 
 <!-- Coded Intro -->
-# [dracuxan](https://bynisarg.in/)
+# dracuxan
 
 ```go
 package developer
@@ -35,9 +33,7 @@ func InfoGenerator() {
 }
 ```
 
----
-
-## Coding Status
+## Coding Stats
 
 
 <!--START_SECTION:waka-->
@@ -74,3 +70,14 @@ Makefile                 2 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+## Miscellaneous
+
+<samp>
+	
+Check Out My [[Website](bynisarg.in)]
+
+[**Octo Ring**](https://octo-ring.com/):
+[[Prev](https://octo-ring.com/p/dracuxan/prev)]  [[Random](https://octo-ring.com/p/dracuxan/random)]  [[Next](https://octo-ring.com/p/dracuxan/next)]
+
+</samp>
