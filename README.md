@@ -4,8 +4,10 @@
 -->
 
 
-
+<samp>
+	
 <!-- Coded Intro -->
+	
 # dracuxan
 
 ```go
@@ -73,7 +75,9 @@ Makefile                 2 repos             █░░░░░░░░░░�
 
 ## Miscellaneous
 
-Check Out My [[Website](bynisarg.in)]
+Check out my [[website](bynisarg.in)]
 
 [**Octo Ring**](https://octo-ring.com/):
-[[Prev](https://octo-ring.com/p/dracuxan/prev)]  [[Random](https://octo-ring.com/p/dracuxan/random)]  [[Next](https://octo-ring.com/p/dracuxan/next)]
+[[prev](https://octo-ring.com/p/dracuxan/prev)]  [[random](https://octo-ring.com/p/dracuxan/random)]  [[next](https://octo-ring.com/p/dracuxan/next)]
+
+</samp>
