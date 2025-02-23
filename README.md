@@ -73,11 +73,7 @@ Makefile                 2 repos             █░░░░░░░░░░�
 
 ## Miscellaneous
 
-<samp>
-	
 Check Out My [[Website](bynisarg.in)]
 
 [**Octo Ring**](https://octo-ring.com/):
 [[Prev](https://octo-ring.com/p/dracuxan/prev)]  [[Random](https://octo-ring.com/p/dracuxan/random)]  [[Next](https://octo-ring.com/p/dracuxan/next)]
-
-</samp>
