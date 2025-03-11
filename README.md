@@ -19,7 +19,7 @@ func InfoGenerator() {
 	me := models.Info{
 		General: models.General{
 			Name:   "Nisarg Khodke",
-			OS:     "WSL-2",
+			OS:     "Windows/WSL-2",
 			IDE:    []string{"NeoVim", "VSCode"},
 		},
 		TechStack: models.TechStack{
