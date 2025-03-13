@@ -20,10 +20,12 @@ func InfoGenerator() {
 		General: models.General{
 			Name:   "Nisarg Khodke",
 			OS:     "Windows/WSL-2",
-			IDE:    []string{"NeoVim", "VSCode"},
+			IDE:    []string{"NeoVim"},
 		},
 		TechStack: models.TechStack{
-			LanguagesProgramming: []string{"Go", "Python", "Elixir"},
+			LanguagesProgramming: []string{"Go", "Python", "JS/TS", "Rust", "C"},
+			Frameworks: 	      []string{"gRPC", "fiber", "flask", "React.js", "Next.js"},
+			Misic:                []string{"Git/GitHub/Actions", "Jenkins", "Docker"},
 		},
 		Hobbies: models.Hobbies{
 			Virtual: []string{"Valorant", "Wargames"},
