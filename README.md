@@ -19,16 +19,16 @@ func InfoGenerator() {
 	me := models.Info{
 		General: models.General{
 			Name:   "Nisarg Khodke",
-			OS:     "Windows/WSL-2",
-			IDE:    []string{"NeoVim"},
+			OS:     []string{"WSL", "NixOS"},
+			IDE:    []string{"NeoVim", "Emacs"},
 		},
 		TechStack: models.TechStack{
-			LanguagesProgramming: []string{"Go", "Python", "JS/TS", "Rust", "C"},
+			LanguagesProgramming: []string{"Go", "Python", "JS/TS"},
 			Frameworks: 	      []string{"gRPC", "fiber", "flask", "React.js", "Next.js"},
 			Misic:                []string{"Git/GitHub/Actions", "Jenkins", "Docker"},
 		},
 		Hobbies: models.Hobbies{
-			Virtual: []string{"Valorant", "Wargames"},
+			Virtual: []string{"Sky", "Wargames"},
 			Real:    []string{"Reading", "Origami"},
 		},		
 	}
