@@ -24,7 +24,7 @@ func InfoGenerator() {
 		},
 		TechStack: models.TechStack{
 			LanguagesProgramming: []string{"Go", "Python", "JS/TS"},
-			Frameworks: 	      []string{"gRPC", "fiber", "flask", "React.js", "Next.js"},
+			Frameworks: 	      []string{"gRPC", "GraphQL", "fiber", "flask", "React.js", "Next.js"},
 			Misic:                []string{"Git/GitHub/Actions", "Jenkins", "Docker"},
 		},
 		Hobbies: models.Hobbies{
