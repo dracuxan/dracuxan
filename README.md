@@ -18,7 +18,7 @@ import "developer/models"
 func InfoGenerator() {
 	me := models.Info{
 		General: models.General{
-			Name:   "Nisarg Khodke",
+			Name:   "dracuxan",
 			OS:     []string{"WSL", "NixOS"},
 			IDE:    []string{"NeoVim", "Emacs"},
 		},
