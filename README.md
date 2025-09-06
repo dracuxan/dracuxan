@@ -10,6 +10,9 @@
 	
 # dracuxan
 
+
+Check out my [[website](https://bynisarg.in/)]
+
 ```go
 package developer
 
@@ -19,16 +22,16 @@ func InfoGenerator() {
 	me := models.Info{
 		General: models.General{
 			Name:   "dracuxan",
-			OS:     []string{"WSL", "NixOS"},
-			IDE:    []string{"NeoVim", "Emacs"},
+			Age:    21,
 		},
 		TechStack: models.TechStack{
-			LanguagesProgramming: []string{"Go", "Python", "JS/TS"},
-			Frameworks: 	      []string{"gRPC", "GraphQL", "fiber", "flask", "React.js", "Next.js"},
+			LanguagesProgramming: []string{"Go", "C"},
 			Misic:                []string{"Git/GitHub/Actions", "Jenkins", "Docker"},
+			OS:     			  []string{"WSL", "NixOS"},
+			IDE:                  []string{"NeoVim", "Emacs"},
 		},
 		Hobbies: models.Hobbies{
-			Virtual: []string{"Sky", "Wargames"},
+			Virtual: []string{"Movies", "Wargames"},
 			Real:    []string{"Reading", "Origami"},
 		},		
 	}
@@ -76,8 +79,6 @@ Python                   6 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## Miscellaneous
-
-Check out my [[website](https://bynisarg.in/)]
 
 [**Octo Ring**](https://octo-ring.com/):
 [[prev](https://octo-ring.com/p/dracuxan/prev)]  [[random](https://octo-ring.com/p/dracuxan/random)]  [[next](https://octo-ring.com/p/dracuxan/next)]
