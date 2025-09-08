@@ -10,9 +10,6 @@
 	
 # dracuxan
 
-
-Check out my [[website](https://bynisarg.in/)]
-
 ```go
 package developer
 
@@ -79,6 +76,8 @@ Python                   6 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## Miscellaneous
+
+Check out my [[website](https://bynisarg.in/)]
 
 [**Octo Ring**](https://octo-ring.com/):
 [[prev](https://octo-ring.com/p/dracuxan/prev)]  [[random](https://octo-ring.com/p/dracuxan/random)]  [[next](https://octo-ring.com/p/dracuxan/next)]
