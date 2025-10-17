@@ -24,8 +24,8 @@ func InfoGenerator() {
 		TechStack: models.TechStack{
 			LanguagesProgramming: []string{"Go", "C"},
 			Misic:                []string{"Git/GitHub/Actions", "Jenkins", "Docker"},
-			OS:     			  []string{"WSL", "NixOS"},
-			IDE:                  []string{"NeoVim", "Emacs"},
+			OS:     			  []string{"NixOS"},
+			IDE:                  []string{"NeoVim"},
 		},
 		Hobbies: models.Hobbies{
 			Virtual: []string{"Movies", "Wargames"},
