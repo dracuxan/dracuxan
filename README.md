@@ -1,9 +1,6 @@
 <samp>
 	
-# dracuxan
-
-## stuff that i do
-
+## stuff i do mostly for fun
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-459%20hrs%2010%20mins-blue)
