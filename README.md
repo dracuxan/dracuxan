@@ -1,43 +1,8 @@
-<!-- Banner -->
-<!--
-<img src="https://i.imgur.com/mz4ym1F.png" style="max-height:550px"/>
--->
-
-
 <samp>
-	
-<!-- Coded Intro -->
 	
 # dracuxan
 
-```go
-package developer
-
-import "developer/models"
-
-func InfoGenerator() {
-	me := models.Info{
-		General: models.General{
-			Name:   "dracuxan",
-			Age:    21,
-		},
-		TechStack: models.TechStack{
-			LanguagesProgramming: []string{"Go", "C"},
-			Misic:                []string{"Git/GitHub/Actions", "Jenkins", "Docker"},
-			OS:     			  []string{"NixOS"},
-			IDE:                  []string{"NeoVim"},
-		},
-		Hobbies: models.Hobbies{
-			Virtual: []string{"Movies", "Wargames"},
-			Real:    []string{"Reading", "Origami"},
-		},		
-	}
-
-	me.message("Hi! Thanks for stopping by, hope you find something interesting!") 
-}
-```
-
-## Coding Stats
+## stuff that i do
 
 
 <!--START_SECTION:waka-->
@@ -76,9 +41,9 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## Miscellaneous
+## stuff you should check out
 
-Check out my [[website](https://bynisarg.in/)]
+[[website](https://bynisarg.in/)]
 
 [**Octo Ring**](https://octo-ring.com/):
 [[prev](https://octo-ring.com/p/dracuxan/prev)]  [[random](https://octo-ring.com/p/dracuxan/random)]  [[next](https://octo-ring.com/p/dracuxan/next)]
