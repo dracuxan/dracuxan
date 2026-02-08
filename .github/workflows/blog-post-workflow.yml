@@ -21,7 +21,8 @@ jobs:
           readme_path: ./README.md
           comment_tag_name: "BLOGPOSTS"
           disable_sort: false
-          template: "- [$title]($url)"
+          template: "- [$title]($url)\n"
+          filter_out: "about"
           commit_message: "Update README with latest blog posts"
           committer_username: "github-actions[bot]"
           committer_email: "github-actions[bot]@users.noreply.github.com"
