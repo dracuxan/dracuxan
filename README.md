@@ -2,6 +2,6 @@
 
 ## Recent Posts
 
-<!-- BLOGPOSTS:START -->
+<!-- BLOG-POST-LIST:START -->
 
-<!-- BLOGPOSTS:END -->
+<!-- BLOG-POST-LIST:END -->
