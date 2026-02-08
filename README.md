@@ -1,3 +1,1 @@
-# [dracuxan](https://bynisarg.in)
-
-## Recent Posts
+[dracuxan](https://bynisarg.in)
