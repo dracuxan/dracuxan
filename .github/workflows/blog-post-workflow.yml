@@ -1,0 +1,27 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every day at midnight
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://bynisarg.in/index.xml"
+          max_post_count: 2
+          readme_path: ./README.md
+          comment_tag_name: "BLOGPOSTS"
+          disable_sort: false
+          template: "- [$title]($url)"
+          commit_message: "Update README with latest blog posts"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
