@@ -1,6 +1,4 @@
-![](https://komarev.com/ghpvc/?username=dracuxan&style=flat-square&abbreviated=true)
-
-[dracuxan](https://bynisarg.in)
+# [dracuxan](https://bynisarg.in)
 
 Recent blog posts
 
@@ -9,3 +7,5 @@ Recent blog posts
 - [TL;DR: i&#39;m tired boss](https://bynisarg.in/posts/im_tired_boss/)
 - [dummy session for msfconsole](https://bynisarg.in/posts/dummy_session_for_msfconsole/)
 <!-- BLOG-POST-LIST:END -->
+
+![](https://komarev.com/ghpvc/?username=dracuxan&style=flat-square&abbreviated=true)
