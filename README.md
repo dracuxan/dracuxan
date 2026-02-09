@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=dracuxan)
+
 [dracuxan](https://bynisarg.in)
 
 Recent blog posts
