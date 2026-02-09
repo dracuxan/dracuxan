@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=dracuxan)
+![](https://komarev.com/ghpvc/?username=dracuxan&style=flat-square&abbreviated=true)
 
 [dracuxan](https://bynisarg.in)
 
