@@ -1,0 +1,25 @@
+name: Latest blog post workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 0 * * *' # Runs once a day at 00:00 UTC
+  workflow_dispatch: 
+  push:
+    branches:
+      - main
+permissions:
+  contents: write # To write the generated contents to the readme
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://bynisarg.in/index.xml"
+          commit_message: "update README with latest blog posts"
+          committer_username: "github-actions[bot]"
+          max_post_count: 3
