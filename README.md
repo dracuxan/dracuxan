@@ -8,4 +8,4 @@ Recent blog posts
 - [dummy session for msfconsole](https://bynisarg.in/posts/dummy_session_for_msfconsole/)
 <!-- BLOG-POST-LIST:END -->
 
-![](https://komarev.com/ghpvc/?username=dracuxan&style=flat-square&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=dracuxan&style=flat-square)
